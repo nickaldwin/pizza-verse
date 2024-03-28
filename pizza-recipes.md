@@ -15,7 +15,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Old Forge Double Crust Stuffed White Pizza](#old-forge-double-crust-stuffed-white-pizza)
 - [Savory Pear and Gorgonzola Pizza with Balsamic Glaze](#savory-pear-and-gorgonzola-pizza-with-balsamic-glaze)
 - [Zanzibar Pizza](#zanzibar-pizza)
-- [Sisig Pizza](#sisig-pizza)
+- [Sisig Pizza](#sisig-pizza-recipe)
 
 ### Margherita Pizza
 
